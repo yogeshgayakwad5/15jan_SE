@@ -1,0 +1,71 @@
+Q-1.) What is software? What is software engineering?
+Ans. * SOFTWARE
+            Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+            It is the opposite of hardware, which describes the physical aspects of a computer.
+            Software is a generic term used to refer to applications, scripts and programs that run on a device.
+            It can be thought of as the variable part of a computer, while hardware is the invariable part.
+       * SOFTWARE ENGINEERING
+            ~The term software engineering is the product of two words, software, and engineering.
+            ~The software is a collection of integrated programs.
+              Software subsists of carefully-organized instructions and code written by developers on any of various particular computer languages.
+              Computer programs and related documentation such as requirements, design models and user manuals.
+            ~Engineering is the application of scientific and practical knowledge to invent, design, build, maintain, and improve frameworks, processes, etc.
+          Software Engineering is an engineering branch related to the evolution of software product using well-defined scientific principles, techniques, and procedures.
+          The result of software engineering is an effective and reliable software product.
+Q-2) Explain types of software.
+Ans. * Types of Software :
+              1. Application Software.
+              2. System Software.
+              3. Programming Software.
+              4. Programming Software.
+              5. Utility Software.
+Q-3) What is SDLC? Explain each phase of SDLC.
+Ans. *SDLC (Software Development Life Cycle)
+            The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software.
+            The goal of SDLC is to minimize project risks through forward planning so that software meets customer expectations during production and beyond.
+            This methodology outlines a series of steps that divide the software development process into tasks you can assign, complete, and measure.
+          *Each Phase of SDLC :
+             1. Requirement Gathering and Analysis : During this phase, all the relevant information is collected from the customer to develop a product as per their expectation.
+                 Any ambiguities must be resolved in this phase only.
+             2. Design : In this phase, the requirement gathered in the SRS document is used as an input and software architecture that is used for implementing system development is derived.
+             3. Implementation or Coding : Implementation/Coding starts once the developer gets the Design document. The Software design is translated into source code.
+                 All the components of the software are implemented in this phase.
+             4. Testing : Testing starts once the coding is complete and the modules are released for testing.
+                 In this phase, the developed software is tested thoroughly and any defects found are assigned to developers to get them fixed.
+             5. Deployment : Once the product is tested, it is deployed in the production environment or first UAT (User Acceptance testing) is done depending on the customer expectation.
+             6. Maintenance : After the deployment of a product on the production environment, maintenance of the product i.e. 
+                 if any issue comes up and needs to be fixed or any enhancement is to be done is taken care by the developers.
+Q-4) What is DFD? Create a DFD diagram on Flipkart.
+Ans. * DFD(Data Flow Diagram) : 
+             DFD is the abbreviation for Data Flow Diagram.
+             The flow of data of a system or a process is represented by DFD.
+             It also gives insight into the inputs and outputs of each entity and the process itself.
+             DFD does not have control flow and no loops or decision rules are present.
+             Specific operations depending on the type of data can be explained by a flowchart.
+         * Create a DFD diagram on Flipkart :
+             
+
+Q-5) What is Flow chart? Create a flowchart to make addition of two numbers.
+Ans. * FLOW CHART 
+            A flowchart is a diagram that depicts a process, system or computer algorithm.
+            They are widely used in multiple fields to document, study, plan, improve and 
+              communicate often complex processes in clear, easy-to-understand diagrams.
+            Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and 
+              potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. 
+           They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes. 
+           If we consider all the various forms of flowcharts, they are one of the most common diagrams on the planet, 
+             used by both technical and non-technical people in numerous fields. Flowcharts are sometimes called by more specialized names such as Process Flowchart, 
+           Process Map, Functional Flowchart, Business Process Mapping, Business Process Modeling and Notation (BPMN),  or Process Flow Diagram (PFD). 
+           They are related to other popular diagrams, such as Data Flow Diagrams (DFDs) and Unified Modeling Language (UML) Activity Diagrams.
+        * Create a flowchart to make addition of two numbers :
+          
+Q-6) What is Use case Diagram? Create a use-case on bill payment on paytm.
+Ans. * Use case Diagram : 
+              An Use case Diagram is the primary form of system/software requirements for a new software program underdeveloped.
+              Use cases specify the expected behavior (what), and not the exact method of making it happen (how).
+              Use cases once specified can be denoted both textual and visual representation (i.e. use case diagram).  
+              A key concept of use case modeling is that it helps us design a system from the end user's perspective.
+              It is an effective technique for communicating system behavior in the user's terms by specifying all externally visible system behavior.
+         * Create a use-case on bill payment on paytm : 
+              
+
